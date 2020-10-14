@@ -3,7 +3,6 @@
 	margin: 0;
 	padding: 0;
 	font-family: calibri,courier,arial;
-	font-size: 20px;
 }
 h1{
 	text-align: center;
@@ -41,6 +40,7 @@ p {
 	position: relative;
 	top: 20px;
 	padding: 10px;
+	font-size: 20px;
 }
 
 @media (min-width: 992px) {
